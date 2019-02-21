@@ -1,4 +1,6 @@
-**NOTE:** Further development on this project has moved to [zxingify/ZXingObjC](https://github.com/zxingify/ZXingObjC).
+# Moved!
+
+Further development on this project has moved to [zxingify/zxingify-objc](https://github.com/zxingify/zxingify-objc).
 
 # ZXingObjC
 
